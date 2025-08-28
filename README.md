@@ -1,4 +1,4 @@
-IP CIDR dowbloader 1.0v / IP地址范围生成器与国家代码查询工具 1.0v
+IP CIDR downloader 1.0v / IP地址范围生成器与国家代码查询工具 1.0v
 
 一个用于生成各国IP地址范围（CIDR格式）并提供国家代码查询的工具，支持从五大区域互联网注册管理机构（RIR）获取最新IP分配数据。
 
